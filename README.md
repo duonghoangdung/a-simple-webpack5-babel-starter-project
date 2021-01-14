@@ -1,4 +1,4 @@
-# a-simple-webpack-starter-project
+# A Simple Webpack Starter Project
 A simple webpack5, babel, node sass starter project for your basic modern web development needs.
 ## install webpack packaged
 ```
